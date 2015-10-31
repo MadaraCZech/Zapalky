@@ -1,0 +1,6 @@
+c:\users\madaraczech\documents\visual studio 2015\Projects\Zápalky\Zápalky\bin\Debug\Zápalky.exe.config
+C:\Users\MadaraCZech\Documents\Visual Studio 2015\Projects\Zápalky\Zápalky\bin\Debug\Zápalky.exe
+C:\Users\MadaraCZech\Documents\Visual Studio 2015\Projects\Zápalky\Zápalky\bin\Debug\Zápalky.pdb
+C:\Users\MadaraCZech\Documents\Visual Studio 2015\Projects\Zápalky\Zápalky\obj\Debug\Zápalky.csprojResolveAssemblyReference.cache
+C:\Users\MadaraCZech\Documents\Visual Studio 2015\Projects\Zápalky\Zápalky\obj\Debug\Zápalky.exe
+C:\Users\MadaraCZech\Documents\Visual Studio 2015\Projects\Zápalky\Zápalky\obj\Debug\Zápalky.pdb
